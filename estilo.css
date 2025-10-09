@@ -16,4 +16,10 @@ button{
 }
 .img01{
      width: 95%;
-}    
+}
+.passo{
+     display: none;
+}
+.passo.ativo{
+     display: block;
+}
